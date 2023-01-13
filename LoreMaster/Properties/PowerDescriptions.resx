@@ -169,7 +169,7 @@
     <value>Increase the damage of your Nail Arts by 10% for each recipient of the Delicate Flower.</value>
   </data>
   <data name="FollowTheLight" xml:space="preserve">
-    <value>While casting Dream Nail, holding Left will spawn an orange portal by your side which allows travel from anywhere in the room. Holding Right will warp you to that portal. (Requires Dream Gate.) Warping will consume 1 essence and the portal. Neither will be consumed with Awoken Dream Nail as the portal will swap position with you instead.</value>
+    <value>While casting Dream Nail, holding Left will spawn an orange portal by your side which allows travel from anywhere in the room. Holding Right will warp you to that portal. (Requires Dream Gate.) Warping will consume 1 essence and the portal. Neither will be consumed with Awoken Dream Nail. The portal will swap position with you instead.</value>
   </data>
   <data name="FriendOfTheJellyfish" xml:space="preserve">
     <value>You're immune to jellyfishs enemies and explosions. Note: Non Jellyfish explosion enemies, "could" still deal 2 damage on contact. You're just immune to the explosion itself.</value>
@@ -187,46 +187,46 @@
     <value>Pressing left while casting. spawns a bomb which explodes after 3 seconds, that deals 40 damage (60 with shaman stone) and breaks damaged walls/ground. Pressing right, will consume a lifeblood mask to spawn a more powerful bomb, with a bigger radius, 50 % more damage and the ability to break ALL damaged floors/walls in the room, even heavy floors and one way walls.</value>
   </data>
   <data name="GreaterMind" xml:space="preserve">
-    <value>Activates a tracker which shows you how many powers you are missing. If the counter is green, you have global access to the powers in that area. (Look in the Mod Menu for more options.)</value>
+    <value>Activates the tracker which shows you how many powers you are missing. If the counter is green, you have global access to the powers in that area. (Look in the Mod Menu for more options.)</value>
   </data>
   <data name="HappyFate" xml:space="preserve">
     <value>After sitting on a bench, your nail damage, nail range, running speed, dash speed and cdash charge up speed is increased. You also gain 1 soul per second.</value>
   </data>
   <data name="HotStreak" xml:space="preserve">
-    <value>When hitting an enemy with the nail, increases it's damage by 1 (max. 3 stacks per nail upgrade (15 total)). Resets if you don't hit an enemy.</value>
+    <value>The damage from the nail is increased by 1 for each hit on an enemy. Increases are capped at 3 per nail upgrade (15 total). Resets if you attack without hitting an enemy.</value>
   </data>
   <data name="Imposter" xml:space="preserve">
-    <value>While wearing spore shrooms, focus has a 20% chance to add a lifeblood (doesn't work if you have 3 or more lifeblood).</value>
+    <value>While wearing Spore Shroom, Focus has a 20% chance to add a lifeblood mask. (This doesn't work if you already have 3 or more lifeblood masks.)</value>
   </data>
   <data name="Infested" xml:space="preserve">
-    <value>Hitting an enemy with the nail plants an egg to the enemy (Capped at 5), which spawns a weaver once the enemy died. Weavers also apply eggs (Capped at 25). Weavers despawn after 20 seconds or upon leaving the room.</value>
+    <value>Hitting an enemy with the nail plants an 'egg' on the enemy (capped at 5) which will spawn a weaver once the enemy dies. Damage from Weavers plants additional 'eggs' (capped at 25). These Weavers despawn after 20 seconds or upon leaving the room.</value>
   </data>
   <data name="JellyBelly" xml:space="preserve">
-    <value>Decrease your falling speed by about 20% and triples the time needed in air, for a hard fall.</value>
+    <value>Decreases your falling speed by about 20%. Also triples the time needed in the air for a hard fall.</value>
   </data>
   <data name="JellyfishFlow" xml:space="preserve">
-    <value>You swim 4 times as fast.</value>
+    <value>You swim 4 times faster.</value>
   </data>
   <data name="JonisProtection" xml:space="preserve">
-    <value>When going to another area, you will be granted 5 life blood (10 if you have Joni's equipped). Each 3 seconds a lifeblood granted by this ability will fade away.</value>
+    <value>When entering a room, you will be granted 5 lifeblood masks (10 if you have Joni's Blessing equipped). A lifeblood mask granted by this ability will fade away every 3 seconds.</value>
   </data>
   <data name="LaughableThreat" xml:space="preserve">
-    <value>Most non boss enemies will not be triggered by line of sight. This effect fades away once you hit any enemy. Refreshes on entering a new room.</value>
+    <value>Most non-boss enemies will not be triggered by line of sight. This effect fades away once you hit any enemy. Refreshes on entering a new room.</value>
   </data>
   <data name="LifebloodOmen" xml:space="preserve">
-    <value>Spawns a grimmkin every 180 seconds. Killing the ghost grants 3/6/9 lifeblood (based on ghost level). The ghost disappears if you leave the room or if 90 seconds passed. The chances for the ghost adjust based on your current nail level. I'll will not list the chances here. Look at the repository, if you want to know.</value>
+    <value>Spawns a Grimmkin every 180 seconds. Killing the Grimmkin grants 3/6/9 lifeblood masks based on its level. The Grimmkin disappears if you leave the room or after 90 seconds. The chances for the Grimmkin adjust based on your current nail level. I'll not list the chances here. Look at the repository if you want to know.</value>
   </data>
   <data name="MantisStyle" xml:space="preserve">
-    <value>Increase your nail range by 50% (from base).</value>
+    <value>Increase your nail range by 50% from its base range.</value>
   </data>
   <data name="MarissasAudience" xml:space="preserve">
-    <value>After 45 to 120 seconds spawn multiple companions (Weavers, Hatchlings, Grimmchilds) that persist in the current room or for 30 to 90 seconds. If Marissa is dead, spawns Revek each 45 to 120 seconds, that persist in the current room or 20 to 90 seconds.</value>
+    <value>Multiple companions (Weavers, Hatchlings, Grimmchilds) spawn after 45 to 120 seconds and persist in the room for 30 to 90 seconds. If Marissa is dead, Revek will spawn every 45 to 120 seconds and persist in the room for 20 to 90 seconds.</value>
   </data>
   <data name="MaskOvercharge" xml:space="preserve">
-    <value>Overcharge one of your mask (it glows in different colors), while you have exactly that much health, a circle gathers around you that deal damage and restore 8 soul each second. The overcharged mask changes every 30 seconds and may never select the full hp mask. Inactive while you have Joni's Blessing equipped.</value>
+    <value>Overcharges one of your masks which will glow in different colors. When you have exactly that much health, a circle gathers around you that deals damage and restores 8 soul per second. The overcharged mask changes every 30 seconds and will never select the full hp mask. (Inactive while you have Joni's Blessing equipped.)</value>
   </data>
   <data name="MindblastOfUnn" xml:space="preserve">
-    <value>Hitting an enemy with the dream nail permanently increases the taken damage by 2. Bonus for wearing charm: +1 Dreamwielder, +2 Dreamshield and +3 Shape of Unn. The effect is doubled with awoken dream nail.</value>
+    <value>Hitting an enemy with the Dream Nail permanently increases its damage taken by 2. Charms increase the damage: +1 Dreamwielder, +2 Dreamshield, and +3 Shape of Unn. The effect is doubled with Awoken Dream Nail.</value>
   </data>
   <data name="OneOfUs" xml:space="preserve">
     <value>Every twelve seconds you cast the deep focus spore cloud. Hold the crystal dash button to prevent that (in case you want to do pogos for example).</value>

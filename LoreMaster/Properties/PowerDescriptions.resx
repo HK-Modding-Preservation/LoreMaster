@@ -229,37 +229,37 @@
     <value>Hitting an enemy with the Dream Nail permanently increases its damage taken by 2. Charms increase the damage: +1 Dreamwielder, +2 Dreamshield, and +3 Shape of Unn. The effect is doubled with Awoken Dream Nail.</value>
   </data>
   <data name="OneOfUs" xml:space="preserve">
-    <value>Every twelve seconds you cast the deep focus spore cloud. Hold the crystal dash button to prevent that (in case you want to do pogos for example).</value>
+    <value>Every twelve seconds you cast the Deep Focus Spore Shroom cloud. Holding the Crystal Dash button will prevent it (in case you want to do pogos, for example).</value>
   </data>
   <data name="OverwhelmingPower" xml:space="preserve">
-    <value>When you cast a spell while your soul vessel is full (not counting additional soul vessels), they deal twice as much damage and are twice as big. Has a 10% chance to deal 2 mask of damage and limit your soul vessel for 30 to 120 seconds, after casting an overpowered spell.</value>
+    <value>While your large soul vessel is full, spells deal twice as much damage and are twice as big. After casting an overpowered spell, there is a 10% chance to deal 2 masks of damage to you and limit your soul vessel for 30 to 120 seconds.</value>
   </data>
   <data name="PaleLuck" xml:space="preserve">
-    <value>When you would take damage, you have a 2% chance to be healed instead. Increased by 4% for each King's Brand and Kingssoul. Also increased by 1 % for each king's idol you have.</value>
+    <value>When you take damage, you have a 2% chance to be healed instead. This is increased by 4% each for King's Brand and Kingsoul. Each King's Idol you have also increases the chance by 1%</value>
   </data>
   <data name="PureSpirit" xml:space="preserve">
-    <value>If you have 0 soul after casting a spell you will gain an rotating orb around you that deals 2 contact damage (4 with shamans), up to 3 at a time. If you have 3 orbs active, the next fireball will attach the orbs to it, let them explode upon contact with enemies for 20 damage and restore 10 soul. Soul Snatcher and Soul Eater will increase the soul gained by the orb. Shaman Stone will increase the orb explosion damage.</value>
+    <value>If your large soul vessel is empty after casting a spell, you will gain an orb that rotates around you and deals 2 contact damage (4 with Shaman Stone). You can have up to 3 orbs at a time. Once 3 orbs are active, the next fireball spell will carry the orbs with it, and then explode upon contact with enemies for 20 damage and restore 10 soul. Soul Catcher and Soul Eater will increase the soul gained by the cast orbs. Shaman Stone will increase the orb explosion damage.</value>
   </data>
   <data name="QueenThorns" xml:space="preserve">
-    <value>Thorns of Agony are now "Queen Thorns", which removes the freeze on hit. restore soul if it hits an enemy and has a 33% chance to restore 1 hp if it kills an enemy.</value>
+    <value>Thorns of Agony is now "Queen Thorns". It removes the freeze on hit, restores soul if it hits an enemy, and has a 33% chance to restore 1 mask if it kills an enemy.</value>
   </data>
   <data name="RelentlessSwarm" xml:space="preserve">
-    <value>Hits with flukes restore 2 soul, or 5 if the enemy died.</value>
+    <value>Hits from Flukenest flukes restore 2 soul or 5 if the enemy dies.</value>
   </data>
   <data name="ReluctantPilgrim" xml:space="preserve">
-    <value>While standing of the ground, the grubberfly elegy effect is active regardless of your hp (Joni conditions are still normal). If you have grubberfly equipped, the damage on ground is doubled instead. Also mutes the beams after a few casts.</value>
+    <value>While standing on the ground, the Grubberfly's Elegy effect is active regardless of your hp (Joni's Blessing conditions are still normal). If you have Grubberfly's Elegy equipped, this damage is doubled instead. The beams are muted after a few casts.</value>
   </data>
   <data name="Requiem" xml:space="preserve">
-    <value>Holding focus, while you dying will spawn you in dirtmouth instead of your bench. Holding dream nail will spawn you at spirit's glade instead (when the glade is open). Holding Crystal Dash will spawn you at Hallownests Crown (?), requires Crystal Heart to work.</value>
+    <value>While dying, holding Focus will respawn you in Dirtmouth instead of your active bench. Holding Dream Nail will respawn you at the Spirit's Glade (if the glade is open). Holding Crystal Dash will respawn you at Hallownest's Crown (requires Crystal Heart).</value>
   </data>
   <data name="ReturnToUnn" xml:space="preserve">
-    <value>Your Movement speed is increased by 3 and your dash cooldown is reduces by 0.5 seconds, while you facing left.</value>
+    <value>While you facing left, your movement speed is increased by 3 and your dash cooldown is reduced by 0.5 seconds.</value>
   </data>
   <data name="SacredShell" xml:space="preserve">
-    <value>You can longer take more than one damage per hit (excluding overcharmed).</value>
+    <value>You can no longer take more than one damage per hit (excluding while Overcharmed).</value>
   </data>
   <data name="ScrewTheRules" xml:space="preserve">
-    <value>Fury of the Fallen is now also active with 2 hp, but the damage buff is decreased to 50%. Grubberfly Beams are only nerfed by 40%.</value>
+    <value>Fury of the Fallen is now also active with 2 masks, but the damage buff is decreased to 50%. Grubberfly's Elegy beams are only nerfed by 40%.</value>
   </data>
   <data name="ShadowForged" xml:space="preserve">
     <value>Decrease the cooldown of shade cloak by 0.2 seconds and increases sharp shadow damage by 100%.</value>
